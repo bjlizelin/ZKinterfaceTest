@@ -1,0 +1,96 @@
+2018-05-17 15:58:32 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-17 15:58:34 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-05-17 15:59:03 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-17 15:59:03 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-05-17 15:59:03 test_1app_jcjs_cl.py[line:35] INFO 执法局下派{"message":"保存成功","result":{},"status":"1"}
+2018-05-17 15:59:04 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-17 15:59:04 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /jcjs/elpy_tk/saveorupdate.action HTTP/1.1" 200 None
+2018-05-17 16:00:28 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-17 16:00:29 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-05-17 16:00:29 test_1app_jcjs_cl.py[line:35] INFO 执法局下派{"message":"保存成功","result":{},"status":"1"}
+2018-05-17 16:00:30 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-17 16:00:30 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /jcjs/elpy_tk/saveorupdate.action HTTP/1.1" 200 None
+2018-05-17 16:00:30 test_1app_jcjs_cl.py[line:63] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-05-17 16:12:14 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-17 16:12:14 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-05-17 16:12:14 test_2app_zfj_cl.py[line:42] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-17 16:48:24 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-17 16:48:24 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-05-17 16:48:24 test_2app_zfj_cl.py[line:42] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-17 16:48:24 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-17 16:48:24 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /jcjs/elpy_tk/saveorupdate.action HTTP/1.1" 200 None
+2018-05-17 16:48:24 test_2app_zfj_cl.py[line:73] INFO 执法局处理成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-17 17:13:48 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-17 17:13:48 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /publicworkstation/mktcp_io/saveComplaint.action HTTP/1.1" 200 None
+2018-05-17 17:14:46 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-17 17:14:47 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /publicworkstation/mktcp_io/saveComplaint.action HTTP/1.1" 200 None
+2018-05-17 17:19:38 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-17 17:19:39 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /publicworkstation/mktcp_io/saveComplaint.action HTTP/1.1" 200 None
+2018-05-17 18:04:26 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-05-17 18:04:26 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/publicworkstation/mktcp_io/saveComplaint.action HTTP/1.1" 200 None
+2018-05-17 18:20:08 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-17 18:20:08 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /publicworkstation/mktcp_io/saveComplaint.action HTTP/1.1" 200 None
+2018-05-18 09:32:54 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-18 09:33:34 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-18 09:33:34 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /publicworkstation/mktcp_io/saveComplaint.action HTTP/1.1" 200 None
+2018-05-18 09:33:53 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-18 09:34:19 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-18 09:34:47 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /publicworkstation/mktcp_io/saveComplaint.action HTTP/1.1" 200 None
+2018-05-18 09:34:47 test_3app_ajl_sbcl.py[line:35] INFO 执法局处理成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-18 09:36:28 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-18 09:36:28 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /publicworkstation/mktcp_io/saveComplaint.action HTTP/1.1" 200 None
+2018-05-18 09:36:28 test_3app_ajl_sbcl.py[line:39] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-18 09:37:11 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-05-18 09:37:25 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/publicworkstation/mktcp_io/saveComplaint.action HTTP/1.1" 200 None
+2018-05-18 09:37:25 test_3app_ajl_sbcl.py[line:39] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-18 09:43:00 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-05-18 09:43:03 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/publicworkstation/mktcp_io/saveComplaint.action HTTP/1.1" 200 None
+2018-05-18 09:43:04 test_3app_ajl_sbcl.py[line:39] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-18 09:52:23 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-05-18 09:52:24 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/publicworkstation/mktcp_io/saveComplaint.action HTTP/1.1" 200 None
+2018-05-18 09:52:24 test_3app_ajl_sbcl.py[line:39] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-18 09:52:25 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-05-18 09:52:25 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/elpy_tk/saveorupdate.action HTTP/1.1" 200 None
+2018-05-18 09:52:25 test_3app_ajl_sbcl.py[line:68] INFO 执法局处理成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-18 09:58:47 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-05-18 09:58:47 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/publicworkstation/mktcp_io/saveComplaint.action HTTP/1.1" 200 None
+2018-05-18 09:58:47 test_3app_ajl_sbcl.py[line:39] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-18 09:58:47 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-05-18 09:58:48 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/elpy_tk/saveorupdate.action HTTP/1.1" 200 None
+2018-05-18 09:58:48 test_3app_ajl_sbcl.py[line:68] INFO 江城集市派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-18 10:01:14 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-05-18 10:01:14 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/publicworkstation/mktcp_io/saveComplaint.action HTTP/1.1" 200 None
+2018-05-18 10:01:14 test_3app_ajl_sbcl.py[line:39] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-18 10:01:14 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-05-18 10:01:15 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/elpy_tk/saveorupdate.action HTTP/1.1" 200 None
+2018-05-18 10:01:15 test_3app_ajl_sbcl.py[line:69] INFO 江城集市派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-18 10:17:54 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-18 10:17:54 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /publicworkstation/mktcp_io/saveComplaint.action HTTP/1.1" 200 None
+2018-05-18 10:17:54 test_3app_ajl_sbcl.py[line:40] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-18 10:17:54 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-18 10:17:55 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /jcjs/elpy_tk/saveorupdate.action HTTP/1.1" 200 None
+2018-05-18 10:20:21 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-18 10:20:22 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /publicworkstation/mktcp_io/saveComplaint.action HTTP/1.1" 200 None
+2018-05-18 10:20:22 test_3app_ajl_sbcl.py[line:40] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-18 10:20:22 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-18 10:20:22 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /jcjs/elpy_tk/saveorupdate.action HTTP/1.1" 200 None
+2018-05-18 10:20:22 test_3app_ajl_sbcl.py[line:69] INFO 江城集市派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-18 10:20:22 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-18 10:20:23 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /jcjs/elpy_tk/saveorupdate.action HTTP/1.1" 200 None
+2018-05-18 10:20:23 test_3app_ajl_sbcl.py[line:98] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-05-18 10:22:42 test_1app_jcjs_cl.py[line:35] INFO 执法局下派{"message":"保存成功","result":{},"status":"1"}
+2018-05-18 10:22:42 test_1app_jcjs_cl.py[line:64] INFO 江城集市处理执法局下派成功{"message":"修改成功","result":{},"status":"1"}
+2018-05-18 10:22:42 test_2app_zfj_cl.py[line:40] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-18 10:22:43 test_2app_zfj_cl.py[line:71] INFO 执法局处理江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-18 10:22:43 test_3app_ajl_sbcl.py[line:40] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-18 10:22:44 test_3app_ajl_sbcl.py[line:69] INFO 江城集市派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-18 10:22:44 test_3app_ajl_sbcl.py[line:98] INFO 江城集市处理爱吉林成功{"message":"修改成功","result":{},"status":"1"}
+2018-05-18 10:22:47 runtest.py[line:27] INFO 测试结束
+2018-05-18 10:31:25 test_1app_jcjs_cl.py[line:35] INFO 执法局下派{"message":"保存成功","result":{},"status":"1"}
+2018-05-18 10:31:25 test_1app_jcjs_cl.py[line:61] INFO 江城集市处理执法局下派成功{"message":"修改成功","result":{},"status":"1"}
+2018-05-18 10:31:25 test_2app_zfj_cl.py[line:40] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-18 10:31:25 test_2app_zfj_cl.py[line:71] INFO 执法局处理江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-18 10:31:26 test_3app_ajl_sbcl.py[line:40] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-18 10:31:27 test_3app_ajl_sbcl.py[line:68] INFO 江城集市派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-05-18 10:31:28 test_3app_ajl_sbcl.py[line:95] INFO 江城集市处理爱吉林成功{"message":"修改成功","result":{},"status":"1"}
+2018-05-18 10:31:30 runtest.py[line:27] INFO 测试结束
