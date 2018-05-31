@@ -14,14 +14,17 @@ if __name__=="__main__":
 #     now = time.strftime("%Y-%m-%d %H-%M-%S")  
 #     print now
     #定义报告存放路径  
-    filename ='/Volumes/forWork/python/interfacetest/src/test_report/TestRunner.html'  
-    fp = open(filename,"wb")  
-     #定义测试报告  
-    runner = HTMLTestRunner(stream = fp,  
-                            title='质控控城市接口测试报告',
-                            description='测试用例执行情况:')  
-    #运行测试  
-    runner.run(discover)     
-    fp.close() #关闭报告文件
+    try:
+        filename ='/Volumes/forWork/python/interfacetest/src/test_report/TestRunner.html'  
+        fp = open(filename,"wb")  
+         #定义测试报告  
+        runner = HTMLTestRunner(stream = fp,  
+                                title='智控城市接口测试报告',
+                                description='智控测试用例执行情况:')  
+        #运行测试  
+        runner.run(discover)     
+        fp.close() #关闭报告文件
+    except Exception, e:
+        print str(e)
     os.system("/Volumes/forWork/python/interfacetest/src/sendemail.py")
     logging.info(u"测试结束")

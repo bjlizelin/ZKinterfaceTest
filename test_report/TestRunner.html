@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>质控控城市接口测试报告</title>
+    <title>智控城市接口测试报告</title>
     <meta name="generator" content="HTMLTestRunner 0.8.2"/>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     
@@ -188,12 +188,12 @@ function showOutput(id, name) {
 --></script>
 
 <div class='heading'>
-<h1>质控控城市接口测试报告</h1>
-<p class='attribute'><strong>Start Time:</strong> 2018-05-18 10:31:23</p>
-<p class='attribute'><strong>Duration:</strong> 0:00:05.068013</p>
-<p class='attribute'><strong>Status:</strong> Pass 3</p>
+<h1>智控城市接口测试报告</h1>
+<p class='attribute'><strong>Start Time:</strong> 2018-05-28 09:14:54</p>
+<p class='attribute'><strong>Duration:</strong> 0:03:30.042065</p>
+<p class='attribute'><strong>Status:</strong> Error 4</p>
 
-<p class='description'>测试用例执行情况:</p>
+<p class='description'>智控测试用例执行情况:</p>
 </div>
 
 
@@ -221,34 +221,45 @@ function showOutput(id, name) {
     <td>View</td>
 </tr>
 
-<tr class='passClass'>
+<tr class='errorClass'>
     <td>test_1app_jcjs_cl.test_app_jcjs_post: ''接口名称：app_江城集市_事件处理</td>
     <td>1</td>
+    <td>0</td>
+    <td>0</td>
     <td>1</td>
-    <td>0</td>
-    <td>0</td>
     <td><a href="javascript:showClassDetail('c1',1)">Detail</a></td>
 </tr>
 
-<tr id='pt1.1' class='hiddenRow'>
-    <td class='none'><div class='testcase'>test_jcjs_cl_post: ''测试用例1：执法局下派_江城集市处理</div></td>
+<tr id='ft1.1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_jcjs_cl_post: ''测试用例1：执法局下派_江城集市处理</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.1')" >
-        pass</a>
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.1')" >
+        error</a>
 
-    <div id='div_pt1.1' class="popup_window">
+    <div id='div_ft1.1' class="popup_window">
         <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.1').style.display = 'none' " >
+        <a onfocus='this.blur();' onclick="document.getElementById('div_ft1.1').style.display = 'none' " >
            [x]</a>
         </div>
         <pre>
         
-pt1.1: start test
-执法局下派结果：{"message":"保存成功","result":{},"status":"1"}
-江城集市处理执法局下派结果:{"message":"修改成功","result":{},"status":"1"}
-end test
+ft1.1: start test
+Traceback (most recent call last):
+  File "/Volumes/forWork/python/interfacetest/src/test_case/test_1app_jcjs_cl.py", line 32, in test_jcjs_cl_post
+    self.r = requests.post(url = self.url,data = self.data,headers = self.headers,timeout=60)
+  File "/Library/Python/2.7/site-packages/requests/api.py", line 112, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "/Library/Python/2.7/site-packages/requests/api.py", line 58, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Library/Python/2.7/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Python/2.7/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Python/2.7/site-packages/requests/adapters.py", line 521, in send
+    raise ReadTimeout(e, request=request)
+ReadTimeout: HTTPConnectionPool(host='127.0.0.1', port=8888): Read timed out. (read timeout=60)
 
 
         </pre>
@@ -258,35 +269,45 @@ end test
     </td>
 </tr>
 
-<tr class='passClass'>
+<tr class='errorClass'>
     <td>test_2app_zfj_cl.test_zfj_post: ''接口名称：app_执法局_江城集市</td>
     <td>1</td>
+    <td>0</td>
+    <td>0</td>
     <td>1</td>
-    <td>0</td>
-    <td>0</td>
     <td><a href="javascript:showClassDetail('c2',1)">Detail</a></td>
 </tr>
 
-<tr id='pt2.1' class='hiddenRow'>
-    <td class='none'><div class='testcase'>test_jcjs_down</div></td>
+<tr id='ft2.1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_jcjs_down: ''测试用例1：江城集市处上报_执法局处理</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.1')" >
-        pass</a>
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft2.1')" >
+        error</a>
 
-    <div id='div_pt2.1' class="popup_window">
+    <div id='div_ft2.1' class="popup_window">
         <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.1').style.display = 'none' " >
+        <a onfocus='this.blur();' onclick="document.getElementById('div_ft2.1').style.display = 'none' " >
            [x]</a>
         </div>
         <pre>
         
-pt2.1: start test
-江城集市上报成功:{"message":"保存成功","result":{},"status":"1"}
-{"message":"服务调用成功","result":{"curPage":1,"list":[{"cbfmc":"多市场对应一承包商","clrxm":"","createtime":"2018-05-18 10:31:20","fjtp":"","fjyj":"","id":784,"jssj":null,"kfxid":null,"pfry":"","pfryid":"","pfsj":null,"pftp":"","pfyj":"","pfzt":2,"qssj":null,"rwwcsj":null,"scbryid":"","scdlwz":"吉林市 昌邑区","scdz":"李泽林测试1","scjd":"126.6241176018957","scmc":"测试市场1","scwd":"43.85082597791774","sjfssj":"2018-05-18 00:00:00","status":1,"tsbh":"201805020490","tsfjtp":"/image/20180511/00ea49d3fa2d4dd48d8ad735e1a321aa.jpeg","tsly":3,"tsrdh":"13021979651","tsrid":"29","tsrxb":"","tsrxm":"管理李泽林测试1市场","tsscid":23,"tssj":"2018-05-18 10:31:20","tstwbh":"1313","tstwdz":"吉林市 昌邑区","tswgbh":"","tsxxms":"江城集市上报","tsyy":"","zxjg":"","zxrid":null,"zxzt":2,"zxzts":""},{"cbfmc":"多市场对应一承包商","clrxm":"","createtime":"2018-05-18 10:17:49","fjtp":"","fjyj":"","id":778,"jssj":null,"kfxid":null,"pfry":"","pfryid":"","pfsj":null,"pftp":"","pfyj":"","pfzt":2,"qssj":null,"rwwcsj":null,"scbryid":"","scdlwz":"吉林市 昌邑区","scdz":"李泽林测试1","scjd":"126.6241176018957","scmc":"测试市场1","scwd":"43.85082597791774","sjfssj":"2018-05-18 00:00:00","status":1,"tsbh":"201805020484","tsfjtp":"/image/20180517/72f7c964fa304002993761fae2601187.jpg","tsly":1,"tsrdh":"13021979652","tsrid":"c65ef0509d3c4f22814db04b49333eb7","tsrxb":"1","tsrxm":"李泽林","tsscid":23,"tssj":"2018-05-18 10:17:49","tstwbh":"1234","tstwdz":"李泽林测试1","tswgbh":"","tsxxms":"测试","tsyy":"","zxjg":"","zxrid":null,"zxzt":2,"zxzts":""},{"cbfmc":"多市场对应一承包商","clrxm":"","createtime":"2018-05-18 09:42:55","fjtp":"","fjyj":"","id":774,"jssj":null,"kfxid":null,"pfry":"","pfryid":"","pfsj":null,"pftp":"","pfyj":"","pfzt":2,"qssj":null,"rwwcsj":null,"scbryid":"","scdlwz":"吉林市 昌邑区","scdz":"李泽林测试1","scjd":"126.6241176018957","scmc":"测试市场1","scwd":"43.85082597791774","sjfssj":"2018-05-18 00:00:00","status":1,"tsbh":"201805020480","tsfjtp":"/image/20180517/72f7c964fa304002993761fae2601187.jpg","tsly":1,"tsrdh":"13021979652","tsrid":"c65ef0509d3c4f22814db04b49333eb7","tsrxb":"1","tsrxm":"李泽林","tsscid":23,"tssj":"2018-05-18 09:42:55","tstwbh":"1234","tstwdz":"李泽林测试1","tswgbh":"","tsxxms":"测试","tsyy":"","zxjg":"","zxrid":null,"zxzt":2,"zxzts":""},{"cbfmc":"多市场对应一承包商","clrxm":"","createtime":"2018-05-18 09:37:09","fjtp":"","fjyj":"","id":773,"jssj":null,"kfxid":null,"pfry":"","pfryid":"","pfsj":null,"pftp":"","pfyj":"","pfzt":2,"qssj":null,"rwwcsj":null,"scbryid":"","scdlwz":"吉林市 昌邑区","scdz":"李泽林测试1","scjd":"126.6241176018957","scmc":"测试市场1","scwd":"43.85082597791774","sjfssj":"2018-05-18 00:00:00","status":1,"tsbh":"201805020479","tsfjtp":"/image/20180517/72f7c964fa304002993761fae2601187.jpg","tsly":1,"tsrdh":"13021979652","tsrid":"c65ef0509d3c4f22814db04b49333eb7","tsrxb":"1","tsrxm":"李泽林","tsscid":23,"tssj":"2018-05-18 09:37:09","tstwbh":"1234","tstwdz":"李泽林测试1","tswgbh":"","tsxxms":"测试","tsyy":"","zxjg":"","zxrid":null,"zxzt":2,"zxzts":""},{"cbfmc":"多市场对应一承包商","clrxm":"","createtime":"2018-05-17 18:20:05","fjtp":"","fjyj":"","id":768,"jssj":null,"kfxid":null,"pfry":"","pfryid":"","pfsj":null,"pftp":"","pfyj":"","pfzt":2,"qssj":null,"rwwcsj":null,"scbryid":"","scdlwz":"吉林市 昌邑区","scdz":"李泽林测试1","scjd":"126.6241176018957","scmc":"测试市场1","scwd":"43.85082597791774","sjfssj":"2018-05-17 00:00:00","status":1,"tsbh":"201805020474","tsfjtp":"/image/20180517/72f7c964fa304002993761fae2601187.jpg","tsly":1,"tsrdh":"13021979652","tsrid":"c65ef0509d3c4f22814db04b49333eb7","tsrxb":"1","tsrxm":"李泽林","tsscid":23,"tssj":"2018-05-17 18:20:05","tstwbh":"1234","tstwdz":"李泽林测试1","tswgbh":"","tsxxms":"测试","tsyy":"","zxjg":"","zxrid":null,"zxzt":2,"zxzts":""},{"cbfmc":"多市场对应一承包商","clrxm":"","createtime":"2018-05-17 17:14:43","fjtp":"","fjyj":"","id":765,"jssj":null,"kfxid":null,"pfry":"","pfryid":"","pfsj":null,"pftp":"","pfyj":"","pfzt":2,"qssj":null,"rwwcsj":null,"scbryid":"","scdlwz":"吉林市 昌邑区","scdz":"李泽林测试1","scjd":"126.6241176018957","scmc":"测试市场1","scwd":"43.85082597791774","sjfssj":"2018-05-17 00:00:00","status":1,"tsbh":"201805020471","tsfjtp":"/image/20180511/00ea49d3fa2d4dd48d8ad735e1a321aa.jpeg","tsly":3,"tsrdh":"13021979651","tsrid":"29","tsrxb":"","tsrxm":"管理李泽林测试1市场","tsscid":23,"tssj":"2018-05-17 17:14:43","tstwbh":"1313","tstwdz":"吉林市 昌邑区","tswgbh":"","tsxxms":"江城集市上报","tsyy":"","zxjg":"","zxrid":null,"zxzt":2,"zxzts":""},{"cbfmc":"多市场对应一承包商","clrxm":"","createtime":"2018-05-17 15:58:30","fjtp":"","fjyj":"","id":758,"jssj":null,"kfxid":null,"pfry":"","pfryid":"","pfsj":null,"pftp":"","pfyj":"","pfzt":2,"qssj":null,"rwwcsj":null,"scbryid":"","scdlwz":"吉林市 昌邑区","scdz":"李泽林测试1","scjd":"126.6241176018957","scmc":"测试市场1","scwd":"43.85082597791774","sjfssj":"2018-05-17 00:00:00","status":1,"tsbh":"201805020464","tsfjtp":"/image/20180510/8ce9561d52e44adebbbefd761708c328.jpeg","tsly":2,"tsrdh":"13021979651","tsrid":"4028838462ae48f70162b28604ee014a","tsrxb":"","tsrxm":"李泽林市场领导","tsscid":23,"tssj":"2018-05-17 15:58:30","tstwbh":"测试编号","tstwdz":"李泽林测试1","tswgbh":"","tsxxms":"执法局下派22","tsyy":"","zxjg":"","zxrid":null,"zxzt":2,"zxzts":""},{"cbfmc":"多市场对应一承包商","clrxm":"","createtime":"2018-05-17 15:55:21","fjtp":"","fjyj":"","id":756,"jssj":null,"kfxid":null,"pfry":"","pfryid":"","pfsj":null,"pftp":"","pfyj":"","pfzt":2,"qssj":null,"rwwcsj":null,"scbryid":"","scdlwz":"吉林市 昌邑区","scdz":"李泽林测试1","scjd":"126.6241176018957","scmc":"测试市场1","scwd":"43.85082597791774","sjfssj":"2018-05-17 00:00:00","status":1,"tsbh":"201805020462","tsfjtp":"/image/20180511/00ea49d3fa2d4dd48d8ad735e1a321aa.jpeg","tsly":3,"tsrdh":"13021979651","tsrid":"29","tsrxb":"","tsrxm":"管理李泽林测试1市场","tsscid":23,"tssj":"2018-05-17 15:55:21","tstwbh":"1313","tstwdz":"吉林市 昌邑区","tswgbh":"","tsxxms":"江城集市上报","tsyy":"","zxjg":"","zxrid":null,"zxzt":2,"zxzts":""},{"cbfmc":"多市场对应一承包商","clrxm":"","createtime":"2018-05-17 15:54:58","fjtp":"","fjyj":"","id":755,"jssj":null,"kfxid":null,"pfry":"","pfryid":"","pfsj":null,"pftp":"","pfyj":"","pfzt":2,"qssj":null,"rwwcsj":null,"scbryid":"","scdlwz":"吉林市 昌邑区","scdz":"李泽林测试1","scjd":"126.6241176018957","scmc":"测试市场1","scwd":"43.85082597791774","sjfssj":"2018-05-17 00:00:00","status":1,"tsbh":"201805020461","tsfjtp":"/image/20180511/00ea49d3fa2d4dd48d8ad735e1a321aa.jpeg","tsly":3,"tsrdh":"13021979651","tsrid":"29","tsrxb":"","tsrxm":"管理李泽林测试1市场","tsscid":23,"tssj":"2018-05-17 15:54:58","tstwbh":"1313","tstwdz":"吉林市 昌邑区","tswgbh":"","tsxxms":"江城集市上报","tsyy":"","zxjg":"","zxrid":null,"zxzt":2,"zxzts":""},{"cbfmc":"多市场对应一承包商","clrxm":"","createtime":"2018-05-17 15:54:50","fjtp":"","fjyj":"","id":754,"jssj":null,"kfxid":null,"pfry":"","pfryid":"","pfsj":null,"pftp":"","pfyj":"","pfzt":2,"qssj":null,"rwwcsj":null,"scbryid":"","scdlwz":"吉林市 昌邑区","scdz":"李泽林测试1","scjd":"126.6241176018957","scmc":"测试市场1","scwd":"43.85082597791774","sjfssj":"2018-05-17 00:00:00","status":1,"tsbh":"201805020460","tsfjtp":"/image/20180511/00ea49d3fa2d4dd48d8ad735e1a321aa.jpeg","tsly":3,"tsrdh":"13021979651","tsrid":"29","tsrxb":"","tsrxm":"管理李泽林测试1市场","tsscid":23,"tssj":"2018-05-17 15:54:50","tstwbh":"1313","tstwdz":"吉林市 昌邑区","tswgbh":"","tsxxms":"江城集市上报","tsyy":"","zxjg":"","zxrid":null,"zxzt":2,"zxzts":""},{"cbfmc":"多市场对应一承包商","clrxm":"","createtime":"2018-05-17 15:53:43","fjtp":"","fjyj":"","id":753,"jssj":null,"kfxid":null,"pfry":"","pfryid":"","pfsj":null,"pftp":"","pfyj":"","pfzt":2,"qssj":null,"rwwcsj":null,"scbryid":"","scdlwz":"吉林市 昌邑区","scdz":"李泽林测试1","scjd":"126.6241176018957","scmc":"测试市场1","scwd":"43.85082597791774","sjfssj":"2018-05-17 00:00:00","status":1,"tsbh":"201805020459","tsfjtp":"/image/20180511/00ea49d3fa2d4dd48d8ad735e1a321aa.jpeg","tsly":3,"tsrdh":"13021979651","tsrid":"29","tsrxb":"","tsrxm":"管理李泽林测试1市场","tsscid":23,"tssj":"2018-05-17 15:53:43","tstwbh":"1313","tstwdz":"吉林市 昌邑区","tswgbh":"","tsxxms":"江城集市上报","tsyy":"","zxjg":"","zxrid":null,"zxzt":2,"zxzts":""},{"cbfmc":"多市场对应一承包商","clrxm":"","createtime":"2018-05-17 15:53:01","fjtp":"","fjyj":"","id":752,"jssj":null,"kfxid":null,"pfry":"","pfryid":"","pfsj":null,"pftp":"","pfyj":"","pfzt":2,"qssj":null,"rwwcsj":null,"scbryid":"","scdlwz":"吉林市 昌邑区","scdz":"李泽林测试1","scjd":"126.6241176018957","scmc":"测试市场1","scwd":"43.85082597791774","sjfssj":"2018-05-17 00:00:00","status":1,"tsbh":"201805020458","tsfjtp":"/image/20180511/00ea49d3fa2d4dd48d8ad735e1a321aa.jpeg","tsly":3,"tsrdh":"13021979651","tsrid":"29","tsrxb":"","tsrxm":"管理李泽林测试1市场","tsscid":23,"tssj":"2018-05-17 15:53:01","tstwbh":"1313","tstwdz":"吉林市 昌邑区","tswgbh":"","tsxxms":"江城集市上报","tsyy":"","zxjg":"","zxrid":null,"zxzt":2,"zxzts":""},{"cbfmc":"多市场对应一承包商","clrxm":"","createtime":"2018-05-17 15:51:06","fjtp":"","fjyj":"","id":751,"jssj":null,"kfxid":null,"pfry":"","pfryid":"","pfsj":null,"pftp":"","pfyj":"","pfzt":2,"qssj":null,"rwwcsj":null,"scbryid":"","scdlwz":"吉林市 昌邑区","scdz":"李泽林测试1","scjd":"126.6241176018957","scmc":"测试市场1","scwd":"43.85082597791774","sjfssj":"2018-05-17 00:00:00","status":1,"tsbh":"201805020457","tsfjtp":"/image/20180511/00ea49d3fa2d4dd48d8ad735e1a321aa.jpeg","tsly":3,"tsrdh":"13021979651","tsrid":"29","tsrxb":"","tsrxm":"管理李泽林测试1市场","tsscid":23,"tssj":"2018-05-17 15:51:06","tstwbh":"1313","tstwdz":"吉林市 昌邑区","tswgbh":"","tsxxms":"江城集市上报","tsyy":"","zxjg":"","zxrid":null,"zxzt":2,"zxzts":""},{"cbfmc":"多市场对应一承包商","clrxm":"","createtime":"2018-05-17 15:50:34","fjtp":"","fjyj":"","id":750,"jssj":null,"kfxid":null,"pfry":"","pfryid":"","pfsj":null,"pftp":"","pfyj":"","pfzt":2,"qssj":null,"rwwcsj":null,"scbryid":"","scdlwz":"吉林市 昌邑区","scdz":"李泽林测试1","scjd":"126.6241176018957","scmc":"测试市场1","scwd":"43.85082597791774","sjfssj":"2018-05-17 00:00:00","status":1,"tsbh":"201805020456","tsfjtp":"/image/20180511/00ea49d3fa2d4dd48d8ad735e1a321aa.jpeg","tsly":3,"tsrdh":"13021979651","tsrid":"29","tsrxb":"","tsrxm":"管理李泽林测试1市场","tsscid":23,"tssj":"2018-05-17 15:50:34","tstwbh":"1313","tstwdz":"吉林市 昌邑区","tswgbh":"","tsxxms":"江城集市上报","tsyy":"","zxjg":"","zxrid":null,"zxzt":2,"zxzts":""},{"cbfmc":"多市场对应一承包商","clrxm":"","createtime":"2018-05-17 15:49:06","fjtp":"","fjyj":"","id":749,"jssj":null,"kfxid":null,"pfry":"","pfryid":"","pfsj":null,"pftp":"","pfyj":"","pfzt":2,"qssj":null,"rwwcsj":null,"scbryid":"","scdlwz":"吉林市 昌邑区","scdz":"李泽林测试1","scjd":"126.6241176018957","scmc":"测试市场1","scwd":"43.85082597791774","sjfssj":"2018-05-17 00:00:00","status":1,"tsbh":"201805020455","tsfjtp":"/image/20180511/00ea49d3fa2d4dd48d8ad735e1a321aa.jpeg","tsly":3,"tsrdh":"13021979651","tsrid":"29","tsrxb":"","tsrxm":"管理李泽林测试1市场","tsscid":23,"tssj":"2018-05-17 15:49:06","tstwbh":"1313","tstwdz":"吉林市 昌邑区","tswgbh":"","tsxxms":"江城集市上报","tsyy":"","zxjg":"","zxrid":null,"zxzt":2,"zxzts":""}],"map":null,"pageSize":15,"totalItem":242,"totalPage":17},"status":"1"}
-执法局处理江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
-end test
+ft2.1: start test
+Traceback (most recent call last):
+  File "/Volumes/forWork/python/interfacetest/src/test_case/test_2app_zfj_cl.py", line 33, in test_jcjs_down
+    self2 = requests.post(url = self.url,data = self.data,headers = self.headers,timeout=60)
+  File "/Library/Python/2.7/site-packages/requests/api.py", line 112, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "/Library/Python/2.7/site-packages/requests/api.py", line 58, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Library/Python/2.7/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Python/2.7/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Python/2.7/site-packages/requests/adapters.py", line 521, in send
+    raise ReadTimeout(e, request=request)
+ReadTimeout: HTTPConnectionPool(host='127.0.0.1', port=8888): Read timed out. (read timeout=60)
 
 
         </pre>
@@ -296,35 +317,93 @@ end test
     </td>
 </tr>
 
-<tr class='passClass'>
+<tr class='errorClass'>
     <td>test_3app_ajl_sbcl.test_zfj_post: ''接口名称：app_爱吉林_江城集市</td>
     <td>1</td>
+    <td>0</td>
+    <td>0</td>
     <td>1</td>
-    <td>0</td>
-    <td>0</td>
     <td><a href="javascript:showClassDetail('c3',1)">Detail</a></td>
 </tr>
 
-<tr id='pt3.1' class='hiddenRow'>
-    <td class='none'><div class='testcase'>test_jcjs_down: ''测试用例1：市场投诉</div></td>
+<tr id='ft3.1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_jcjs_down: ''测试用例1：市场投诉_执法派发_江城集市处理</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt3.1')" >
-        pass</a>
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft3.1')" >
+        error</a>
 
-    <div id='div_pt3.1' class="popup_window">
+    <div id='div_ft3.1' class="popup_window">
         <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_pt3.1').style.display = 'none' " >
+        <a onfocus='this.blur();' onclick="document.getElementById('div_ft3.1').style.display = 'none' " >
            [x]</a>
         </div>
         <pre>
         
-pt3.1: start test
-爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
-江城集市派发结果:{"message":"保存成功","result":{},"status":"1"}
-江城集市处理爱吉林成功{"message":"修改成功","result":{},"status":"1"}
-end test
+ft3.1: start test
+Traceback (most recent call last):
+  File "/Volumes/forWork/python/interfacetest/src/test_case/test_3app_ajl_sbcl.py", line 33, in test_jcjs_down
+    self2 = requests.post(url = self.url,data = self.data,headers = self.headers,timeout=60)
+  File "/Library/Python/2.7/site-packages/requests/api.py", line 112, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "/Library/Python/2.7/site-packages/requests/api.py", line 58, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Library/Python/2.7/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Python/2.7/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Python/2.7/site-packages/requests/adapters.py", line 521, in send
+    raise ReadTimeout(e, request=request)
+ReadTimeout: HTTPConnectionPool(host='127.0.0.1', port=8888): Read timed out. (read timeout=60)
+
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr class='errorClass'>
+    <td>test_4app_zfj_clz.test_zfj_post: ''接口名称：app_执法局_江城集市</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td>1</td>
+    <td><a href="javascript:showClassDetail('c4',1)">Detail</a></td>
+</tr>
+
+<tr id='ft4.1' class='none'>
+    <td class='errorCase'><div class='testcase'>test_jcjs_down: ''测试用例1：非市场办执法局上报_执法局市场办派发_江城集市处理</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft4.1')" >
+        error</a>
+
+    <div id='div_ft4.1' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_ft4.1').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+ft4.1: start test
+Traceback (most recent call last):
+  File "/Volumes/forWork/python/interfacetest/src/test_case/test_4app_zfj_clz.py", line 32, in test_jcjs_down
+    r = requests.post(url = self.url,data = self.data,headers = self.headers,timeout=30)
+  File "/Library/Python/2.7/site-packages/requests/api.py", line 112, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "/Library/Python/2.7/site-packages/requests/api.py", line 58, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Library/Python/2.7/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Library/Python/2.7/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/Library/Python/2.7/site-packages/requests/adapters.py", line 521, in send
+    raise ReadTimeout(e, request=request)
+ReadTimeout: HTTPConnectionPool(host='127.0.0.1', port=8888): Read timed out. (read timeout=30)
 
 
         </pre>
@@ -336,10 +415,10 @@ end test
 
 <tr id='total_row'>
     <td>Total</td>
-    <td>3</td>
-    <td>3</td>
+    <td>4</td>
     <td>0</td>
     <td>0</td>
+    <td>4</td>
     <td>&nbsp;</td>
 </tr>
 </table>

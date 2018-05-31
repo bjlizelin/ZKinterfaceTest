@@ -68,7 +68,7 @@ class Mailer(object):
 if __name__ == '__main__':
   #send list
   mailto_list = ["lizelin_bj@163.com"]
-  mailto_list = ["lizelin_bj@126.com","748862180@qq.com","416067677@qq.com"]
+  mailto_list = ["lizelin_bj@126.com","748862180@qq.com"]
   mail_title = '质控城市测试反馈'
   mail_content = ''
   mm = Mailer(mailto_list,mail_title,mail_content)
