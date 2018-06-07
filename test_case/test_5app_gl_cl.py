@@ -1,4 +1,4 @@
-#encoding=utf-8
+# -*- coding: utf-8 -*-
 from config.Log import *
 import requests
 import json  
@@ -15,7 +15,7 @@ class MyTest(unittest.TestCase):     #封装测试环境的初始化和还原的
 class test_zfj_post(MyTest):         #把这个接口封装一个类，下面的方法是具体的测试用例  
     '''''接口名称：吉林公路管理系统'''    #这个描述接口名称  
     def test_jcjs_down(self): 
-        '''''测试用例1：pc立案_app核实'''   #这个描述接口用例名称           
+        '''''测试用例5：pc立案_app核实'''   #这个描述接口用例名称           
         self.url = 'http://219.149.226.180:7880/roadproject/roadsevent/add?status=1'  #请求url  
         self.headers = {"Content-Type":"application/x-www-form-urlencoded "}  
         self.data = {                                   #请求参数  
@@ -45,6 +45,7 @@ class test_zfj_post(MyTest):         #把这个接口封装一个类，下面的
             logging.info("web录入案卷失败比"+r.text)
             print("web录入案卷失败"+r.text)
             print(self.status_code) 
+            raise
     #                         i=i+1        
         url="http://219.149.226.180:7880/roadproject/roadsevent/list?curPage=1&eventtypeid=&status=&roadsectionid=&eventlevelid=&pageSize=20"
         self_data = urllib2.urlopen(url)
@@ -79,7 +80,8 @@ class test_zfj_post(MyTest):         #把这个接口封装一个类，下面的
         else: 
             logging.info("app复核失败"+r.text)
             print("app复核失败"+r.text)
-            print(self.status_code)     
+            print(self.status_code)  
+            raise     
          #
                        
                           

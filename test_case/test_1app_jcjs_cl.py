@@ -1,4 +1,4 @@
-#encoding=utf-8 
+# -*- coding: utf-8 -*-
 from config.Log import *
 import requests
 import json  
@@ -36,11 +36,10 @@ class test_app_jcjs_post(MyTest):         #把这个接口封装一个类，下�
         if c=="1":
             print("执法局下派成功"+self.r.text)
             logging.info("执法局下派成功"+self.r.text)
-            return True
         else: 
             logging.info("执法局下派失败"+self.r.text)
             print("执法局下派失败"+self.r.text) 
-            return False           
+            raise          
     #获取江城集市所有未处理数据
         url = "http://219.149.226.180:7880/jcjs/elpy_tk/getlistbypage.action?rwssjssj=&curPage=1&zxzt=1&rwsskssj=&ygid=29&pageSize=15"
         self_data = urllib2.urlopen(url,timeout=60)
@@ -71,10 +70,9 @@ class test_app_jcjs_post(MyTest):         #把这个接口封装一个类，下�
         if c=="1":
             print("江城集市处理成功"+r2.text)
             logging.info("江城集市处理成功"+r2.text)
-            return True
         else: 
             logging.info("江城集市处理失败"+r2.text)
             print("江城集市处理失败"+r2.text)
-            return False                               
+            raise                              
 if __name__=="__main__":  
         unittest.main()

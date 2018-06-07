@@ -1,0 +1,470 @@
+2018-05-31 15:58:50 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 15:58:50 test_5app_gl_cl.py[line:78] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 15:58:52 runtest.py[line:30] INFO 测试结束
+2018-05-31 16:37:03 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 16:37:04 test_5app_gl_cl.py[line:78] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 16:37:07 runtest.py[line:30] INFO 测试结束
+2018-05-31 16:37:14 runtest.py[line:30] INFO 测试结束
+2018-05-31 16:37:54 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 16:37:55 test_5app_gl_cl.py[line:78] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 16:37:56 runtest.py[line:30] INFO 测试结束
+2018-05-31 16:43:01 runtest.py[line:30] INFO 测试结束
+2018-05-31 16:43:38 runtest.py[line:30] INFO 测试结束
+2018-05-31 16:44:03 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 16:44:04 test_5app_gl_cl.py[line:78] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 16:44:05 runtest.py[line:30] INFO 测试结束
+2018-05-31 16:46:34 runtest.py[line:30] INFO 测试结束
+2018-05-31 16:50:24 runtest.py[line:30] INFO 测试结束
+2018-05-31 16:53:19 runtest.py[line:30] INFO 测试结束
+2018-05-31 16:57:11 runtest.py[line:30] INFO 测试结束
+2018-05-31 16:58:20 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 16:58:21 test_5app_gl_cl.py[line:78] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 16:58:31 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 16:58:33 test_5app_gl_cl.py[line:78] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 16:58:34 runtest.py[line:35] INFO 测试结束
+2018-05-31 16:59:02 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 16:59:04 test_5app_gl_cl.py[line:78] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 16:59:05 runtest.py[line:35] INFO 测试结束
+2018-05-31 17:48:23 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 17:48:24 test_5app_gl_cl.py[line:78] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 17:48:26 runtest.py[line:35] INFO 测试结束
+2018-06-01 09:42:29 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-01 09:42:31 test_5app_gl_cl.py[line:78] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-01 09:42:35 runtest.py[line:35] INFO 测试结束
+2018-06-01 13:37:43 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-01 13:37:44 test_5app_gl_cl.py[line:78] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-01 13:37:48 runtest.py[line:35] INFO 测试结束
+2018-06-04 09:21:21 runtest.py[line:35] INFO 测试结束
+2018-06-04 09:21:21 runtest.py[line:35] INFO 测试结束
+2018-06-04 13:15:47 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-04 13:15:47 test_5app_gl_cl.py[line:78] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-04 13:15:49 runtest.py[line:35] INFO 测试结束
+2018-06-04 14:52:56 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-04 14:52:57 test_5app_gl_cl.py[line:78] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-04 14:52:58 runtest.py[line:35] INFO 测试结束
+2018-06-05 13:15:19 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-05 13:15:20 test_5app_gl_cl.py[line:78] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-05 13:15:22 runtest.py[line:35] INFO 测试结束
+2018-06-06 13:15:12 test_1app_jcjs_cl.py[line:38] INFO 执法局下派成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 13:15:13 test_1app_jcjs_cl.py[line:72] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 13:15:13 test_2app_zfj_cl.py[line:39] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 13:15:14 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 13:15:15 test_5app_gl_cl.py[line:78] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 13:15:16 runtest.py[line:35] INFO 测试结束
+2018-06-06 15:51:28 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 15:51:31 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 15:51:32 test_1app_jcjs_cl.py[line:38] INFO 执法局下派成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 15:51:32 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 15:51:33 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/elpy_tk/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 15:51:33 test_1app_jcjs_cl.py[line:72] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 15:51:39 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 15:51:40 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 15:51:40 test_2app_zfj_cl.py[line:39] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 15:51:41 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 15:51:41 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/elpy_tk/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 15:53:36 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 15:53:36 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 15:53:36 test_2app_zfj_cl.py[line:39] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 15:53:37 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 15:53:37 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/elpy_tk/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 15:53:37 test_2app_zfj_cl.py[line:75] INFO 执法局处理成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 15:55:40 test_1app_jcjs_cl.py[line:38] INFO 执法局下派成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 15:55:41 test_1app_jcjs_cl.py[line:72] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 15:55:41 test_2app_zfj_cl.py[line:39] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 15:55:41 test_2app_zfj_cl.py[line:75] INFO 执法局处理成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 15:55:42 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 15:55:42 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 15:55:43 test_5app_gl_cl.py[line:78] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 15:55:45 runtest.py[line:35] INFO 测试结束
+2018-06-06 15:56:37 test_1app_jcjs_cl.py[line:38] INFO 执法局下派成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 15:56:38 test_1app_jcjs_cl.py[line:72] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 15:56:38 test_2app_zfj_cl.py[line:39] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 15:56:39 test_2app_zfj_cl.py[line:75] INFO 执法局处理成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 15:56:39 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 15:56:39 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 15:56:40 test_5app_gl_cl.py[line:78] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 15:56:42 runtest.py[line:35] INFO 测试结束
+2018-06-06 15:57:16 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 15:57:17 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/publicworkstation/mktcp_io/saveComplaint.action HTTP/1.1" 404 1080
+2018-06-06 16:05:51 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:05:51 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:05:51 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:08:07 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:08:07 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:08:07 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:08:16 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:08:16 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:08:16 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:08:22 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:08:22 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:08:22 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:08:24 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:08:25 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:08:29 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:08:41 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:08:41 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:08:41 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:09:22 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:10:26 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:18:35 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:19:20 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:19:20 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/publicworkstation/mktcp_io/saveComplaint.action HTTP/1.1" 200 None
+2018-06-06 16:19:20 test_3app_ajl_sbcl.py[line:39] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:20:38 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:20:39 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:20:39 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:21:53 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:21:53 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:21:53 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:23:05 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:23:05 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:23:05 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:24:07 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:24:07 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:24:07 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:24:23 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:24:24 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:24:24 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:24:42 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:24:43 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:24:43 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:27:56 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:27:57 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:27:57 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:30:19 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:30:19 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:30:19 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:30:20 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:30:20 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/elpy_tk/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:30:20 test_4app_zfj_clz.py[line:70] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:31:36 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:31:37 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:31:37 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:31:37 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:31:38 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/elpy_tk/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:31:38 test_4app_zfj_clz.py[line:69] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:32:49 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:32:49 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:32:49 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:32:49 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:32:50 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/elpy_tk/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:32:50 test_4app_zfj_clz.py[line:69] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:34:22 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:34:23 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:34:23 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:34:23 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:34:24 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/elpy_tk/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:34:24 test_4app_zfj_clz.py[line:69] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:34:42 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:34:43 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:34:43 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:34:44 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:34:44 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/elpy_tk/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:34:44 test_4app_zfj_clz.py[line:69] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:35:38 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:35:39 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:35:39 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:35:40 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:35:41 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/elpy_tk/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:35:41 test_4app_zfj_clz.py[line:69] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:37:48 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:37:49 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/cp_io/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:37:49 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:37:49 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:37:49 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/elpy_tk/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:37:49 test_4app_zfj_clz.py[line:69] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:37:51 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:37:51 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/jcjs/elpy_tk/saveorupdate.action HTTP/1.1" 200 None
+2018-06-06 16:37:51 test_4app_zfj_clz.py[line:102] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 16:41:28 test_1app_jcjs_cl.py[line:38] INFO 执法局下派成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:41:28 test_1app_jcjs_cl.py[line:72] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 16:41:29 test_2app_zfj_cl.py[line:39] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:41:29 test_2app_zfj_cl.py[line:75] INFO 执法局处理成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:41:29 test_3app_ajl_sbcl.py[line:39] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:41:31 test_3app_ajl_sbcl.py[line:71] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:41:31 test_3app_ajl_sbcl.py[line:106] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 16:41:31 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:41:33 test_4app_zfj_clz.py[line:70] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 16:41:33 test_4app_zfj_clz.py[line:104] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 16:41:33 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 16:41:34 test_5app_gl_cl.py[line:79] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 16:41:36 runtest.py[line:35] INFO 测试结束
+2018-06-06 16:55:29 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:55:30 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/publicworkstation/jeecms/getNewsList.action?subId=59 HTTP/1.1" 200 None
+2018-06-06 16:57:33 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:57:34 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/publicworkstation/jeecms/getNewsList.action?subId=59 HTTP/1.1" 200 None
+2018-06-06 16:59:00 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:59:01 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/publicworkstation/jeecms/getNewsList.action?subId=59 HTTP/1.1" 200 None
+2018-06-06 16:59:21 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 16:59:21 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/publicworkstation/jeecms/getNewsList.action?subId=59 HTTP/1.1" 200 None
+2018-06-06 17:01:34 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 17:01:34 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "POST http://219.149.226.180:7880/publicworkstation/jeecms/getNewsList.action?subId=59 HTTP/1.1" 200 None
+2018-06-06 17:01:48 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 17:01:48 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "GET http://219.149.226.180:7880/publicworkstation/jeecms/getNewsList.action?subId=59 HTTP/1.1" 200 None
+2018-06-06 17:04:24 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 17:04:25 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "GET http://219.149.226.180:7880/publicworkstation/jeecms/getNewsList.action?subId=59 HTTP/1.1" 200 None
+2018-06-06 17:06:08 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 17:06:08 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "GET http://219.149.226.180:7880/publicworkstation/jeecms/getNewsList.action?subId=59 HTTP/1.1" 200 None
+2018-06-06 17:08:52 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 17:09:24 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "GET http://219.149.226.180:7880/publicworkstation/jeecms/getNewsList.action?subId=59 HTTP/1.1" 200 None
+2018-06-06 17:09:24 test_6app_aiji_get.py[line:32] INFO 爱吉林城市动态获取失败{"message":"服务器内部错误","result":null,"status":"2"}
+2018-06-06 17:10:23 test_1app_jcjs_cl.py[line:38] INFO 执法局下派成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:10:23 test_1app_jcjs_cl.py[line:72] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:10:23 test_2app_zfj_cl.py[line:39] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:10:24 test_2app_zfj_cl.py[line:75] INFO 执法局处理成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:10:25 test_3app_ajl_sbcl.py[line:39] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:10:26 test_3app_ajl_sbcl.py[line:71] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:10:27 test_3app_ajl_sbcl.py[line:106] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:10:27 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:10:28 test_4app_zfj_clz.py[line:70] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:10:28 test_4app_zfj_clz.py[line:104] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:10:29 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 17:10:31 test_5app_gl_cl.py[line:79] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 17:10:31 test_6app_aiji_get.py[line:32] INFO 爱吉林城市动态获取失败{"message":"服务器内部错误","result":null,"status":"2"}
+2018-06-06 17:10:33 runtest.py[line:35] INFO 测试结束
+2018-06-06 17:11:22 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 17:11:22 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "GET http://219.149.226.180:7880/publicworkstation/jeecms/getNewsList.action?subId=59 HTTP/1.1" 200 None
+2018-06-06 17:11:22 test_6app_aiji_get.py[line:32] INFO 爱吉林城市动态获取失败{"message":"服务器内部错误","result":null,"status":"2"}
+2018-06-06 17:11:39 test_1app_jcjs_cl.py[line:38] INFO 执法局下派成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:11:39 test_1app_jcjs_cl.py[line:72] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:11:39 test_2app_zfj_cl.py[line:39] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:11:40 test_2app_zfj_cl.py[line:75] INFO 执法局处理成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:11:40 test_3app_ajl_sbcl.py[line:39] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:11:41 test_3app_ajl_sbcl.py[line:71] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:11:41 test_3app_ajl_sbcl.py[line:106] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:11:42 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:11:43 test_4app_zfj_clz.py[line:70] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:11:43 test_4app_zfj_clz.py[line:104] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:11:43 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 17:11:44 test_5app_gl_cl.py[line:79] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 17:11:44 test_6app_aiji_get.py[line:32] INFO 爱吉林城市动态获取失败{"message":"服务器内部错误","result":null,"status":"2"}
+2018-06-06 17:11:46 runtest.py[line:35] INFO 测试结束
+2018-06-06 17:15:38 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 17:15:38 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "GET http://219.149.226.180:7880/publicworkstation/jeecms/getNewsList.action?subId=59 HTTP/1.1" 200 None
+2018-06-06 17:16:30 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 17:16:30 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "GET http://219.149.226.180:7880/publicworkstation/jeecms/getNewsList.action?subId=59 HTTP/1.1" 200 None
+2018-06-06 17:17:10 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 127.0.0.1
+2018-06-06 17:17:11 connectionpool.py[line:396] DEBUG http://127.0.0.1:8888 "GET http://219.149.226.180:7880/publicworkstation/jeecms/getNewsList.action?subId=59 HTTP/1.1" 200 None
+2018-06-06 17:17:11 test_6app_aiji_get.py[line:32] INFO 爱吉林城市动态获取失败{"message":"服务器内部错误","result":null,"status":"2"}
+2018-06-06 17:19:28 test_1app_jcjs_cl.py[line:38] INFO 执法局下派成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:19:28 test_1app_jcjs_cl.py[line:72] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:19:29 test_2app_zfj_cl.py[line:39] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:19:31 test_2app_zfj_cl.py[line:75] INFO 执法局处理成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:19:32 test_3app_ajl_sbcl.py[line:39] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:19:34 test_3app_ajl_sbcl.py[line:71] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:19:35 test_3app_ajl_sbcl.py[line:106] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:19:35 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:19:36 test_4app_zfj_clz.py[line:70] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:19:37 test_4app_zfj_clz.py[line:104] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:19:37 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 17:19:38 test_5app_gl_cl.py[line:79] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 17:19:38 test_6app_aiji_get.py[line:32] INFO 爱吉林城市动态获取失败{"message":"服务器内部错误","result":null,"status":"2"}
+2018-06-06 17:19:40 runtest.py[line:35] INFO 测试结束
+2018-06-06 17:20:28 test_1app_jcjs_cl.py[line:38] INFO 执法局下派成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:20:28 test_1app_jcjs_cl.py[line:72] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:20:28 test_2app_zfj_cl.py[line:39] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:20:29 test_2app_zfj_cl.py[line:75] INFO 执法局处理成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:20:29 test_3app_ajl_sbcl.py[line:39] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:20:30 test_3app_ajl_sbcl.py[line:71] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:20:30 test_3app_ajl_sbcl.py[line:106] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:20:31 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:20:32 test_4app_zfj_clz.py[line:70] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:20:32 test_4app_zfj_clz.py[line:104] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:20:32 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 17:20:33 test_5app_gl_cl.py[line:79] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 17:20:33 test_6app_aiji_get.py[line:32] INFO 爱吉林城市动态获取失败{"message":"服务器内部错误","result":null,"status":"2"}
+2018-06-06 17:20:35 runtest.py[line:35] INFO 测试结束
+2018-06-06 17:22:34 test_1app_jcjs_cl.py[line:38] INFO 执法局下派成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:22:35 test_1app_jcjs_cl.py[line:72] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:22:35 test_2app_zfj_cl.py[line:39] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:22:35 test_2app_zfj_cl.py[line:75] INFO 执法局处理成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:22:36 test_3app_ajl_sbcl.py[line:39] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:22:37 test_3app_ajl_sbcl.py[line:71] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:22:37 test_3app_ajl_sbcl.py[line:106] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:22:37 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:22:38 test_4app_zfj_clz.py[line:70] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:22:38 test_4app_zfj_clz.py[line:104] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:22:38 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 17:22:39 test_5app_gl_cl.py[line:79] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 17:22:57 runtest.py[line:35] INFO 测试结束
+2018-06-06 17:24:04 test_1app_jcjs_cl.py[line:38] INFO 执法局下派成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:24:04 test_1app_jcjs_cl.py[line:72] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:24:04 test_2app_zfj_cl.py[line:39] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:24:04 test_2app_zfj_cl.py[line:75] INFO 执法局处理成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:24:05 test_3app_ajl_sbcl.py[line:39] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:24:05 test_3app_ajl_sbcl.py[line:71] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:24:06 test_3app_ajl_sbcl.py[line:106] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:24:06 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:24:07 test_4app_zfj_clz.py[line:70] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:24:07 test_4app_zfj_clz.py[line:104] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:24:07 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 17:24:08 test_5app_gl_cl.py[line:79] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 17:24:08 test_6app_aiji_get.py[line:32] INFO 爱吉林城市动态获取失败{"message":"服务器内部错误","result":null,"status":"2"}
+2018-06-06 17:24:10 runtest.py[line:35] INFO 测试结束
+2018-06-06 17:27:24 test_1app_jcjs_cl.py[line:38] INFO 执法局下派成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:27:24 test_1app_jcjs_cl.py[line:72] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:27:25 test_2app_zfj_cl.py[line:39] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:27:25 test_2app_zfj_cl.py[line:75] INFO 执法局处理成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:27:26 test_3app_ajl_sbcl.py[line:39] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:27:27 test_3app_ajl_sbcl.py[line:71] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:27:27 test_3app_ajl_sbcl.py[line:106] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:27:27 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:27:28 test_4app_zfj_clz.py[line:70] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:27:29 test_4app_zfj_clz.py[line:104] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:27:29 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 17:27:29 test_5app_gl_cl.py[line:79] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 17:27:30 test_6app_aiji_get.py[line:32] INFO 爱吉林城市动态获取失败{"message":"服务器内部错误","result":null,"status":"2"}
+2018-06-06 17:27:32 runtest.py[line:35] INFO 测试结束
+2018-06-06 17:29:28 test_1app_jcjs_cl.py[line:38] INFO 执法局下派成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:29:28 test_1app_jcjs_cl.py[line:72] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:29:30 test_2app_zfj_cl.py[line:39] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:29:30 test_2app_zfj_cl.py[line:75] INFO 执法局处理成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:29:30 test_3app_ajl_sbcl.py[line:39] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:29:31 test_3app_ajl_sbcl.py[line:71] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:29:31 test_3app_ajl_sbcl.py[line:106] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:29:32 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:29:33 test_4app_zfj_clz.py[line:70] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:29:33 test_4app_zfj_clz.py[line:104] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:29:33 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 17:29:34 test_5app_gl_cl.py[line:79] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 17:29:34 test_6app_aiji_get.py[line:32] INFO 爱吉林城市动态获取失败{"message":"服务器内部错误","result":null,"status":"2"}
+2018-06-06 17:29:35 runtest.py[line:35] INFO 测试结束
+2018-06-06 17:30:52 test_1app_jcjs_cl.py[line:38] INFO 执法局下派成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:30:53 test_1app_jcjs_cl.py[line:72] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:30:53 test_2app_zfj_cl.py[line:39] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:30:53 test_2app_zfj_cl.py[line:75] INFO 执法局处理成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:30:54 test_3app_ajl_sbcl.py[line:39] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:30:55 test_3app_ajl_sbcl.py[line:71] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:30:55 test_3app_ajl_sbcl.py[line:106] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:30:55 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:30:56 test_4app_zfj_clz.py[line:70] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 17:30:57 test_4app_zfj_clz.py[line:104] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 17:30:57 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 17:30:58 test_5app_gl_cl.py[line:79] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 17:31:00 runtest.py[line:35] INFO 测试结束
+2018-06-06 18:14:46 test_2app_zfj_cl.py[line:39] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 18:14:48 test_2app_zfj_cl.py[line:75] INFO 执法局处理成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 18:15:49 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 18:15:50 test_4app_zfj_clz.py[line:70] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-06 18:15:52 test_4app_zfj_clz.py[line:104] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-06 18:15:52 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 18:15:53 test_5app_gl_cl.py[line:79] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-06 18:16:08 test_6app_aiji_get.py[line:32] INFO 爱吉林城市动态获取失败{"message":"服务器内部错误","result":null,"status":"2"}
+2018-06-06 18:16:12 runtest.py[line:35] INFO 测试结束
+2018-06-07 09:55:24 test_1app_jcjs_cl.py[line:38] INFO 执法局下派成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 09:55:26 test_1app_jcjs_cl.py[line:72] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-07 09:55:27 test_2app_zfj_cl.py[line:39] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 09:55:29 test_2app_zfj_cl.py[line:75] INFO 执法局处理成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 09:55:30 test_3app_ajl_sbcl.py[line:39] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 09:55:30 test_3app_ajl_sbcl.py[line:71] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 09:55:32 test_3app_ajl_sbcl.py[line:106] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-07 09:55:32 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 09:55:36 test_4app_zfj_clz.py[line:70] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 09:55:37 test_4app_zfj_clz.py[line:104] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-07 09:55:38 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-07 09:55:39 test_5app_gl_cl.py[line:79] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-07 09:55:39 test_6app_aiji_get.py[line:32] INFO 爱吉林城市动态获取失败{"message":"服务器内部错误","result":null,"status":"2"}
+2018-06-07 09:55:44 runtest.py[line:35] INFO 测试结束
+2018-06-07 10:15:24 test_1app_jcjs_cl.py[line:38] INFO 执法局下派成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 10:15:24 test_1app_jcjs_cl.py[line:72] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-07 10:15:24 test_2app_zfj_cl.py[line:39] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 10:15:24 test_2app_zfj_cl.py[line:75] INFO 执法局处理成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 10:15:25 test_3app_ajl_sbcl.py[line:39] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 10:15:25 test_3app_ajl_sbcl.py[line:71] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 10:15:26 test_3app_ajl_sbcl.py[line:106] INFO 江城集市处理成功<html>
+<head>
+    <title>Charles Error Report</title>
+    <style type="text/css">
+body {
+    font-family: Arial,Helvetica,Sans-serif;
+    font-size: 12px;
+    color: #333333;
+    background-color: #ffffff;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: bold;
+}
+    </style>
+</head>
+<body>
+
+<h1>Charles Error Report</h1>
+<h2>Failed to connect to remote host</h2>
+<p>Charles failed to connect to the remote host. Check that your Internet connection is ok and that the remote host is accessible. Maybe your network uses a proxy server to access the Internet? You can configure Charles to use an external proxy server in the External Proxy Settings.</p>
+<p>The actual exception reported was:</p>
+<pre>
+java.net.ConnectException: Connection refused (Connection refused)
+</pre>
+
+<p>
+<i>Charles Proxy, <a href="http://www.charlesproxy.com/">http://www.charlesproxy.com/</a></i>
+</p>
+</body>
+</html>
+2018-06-07 10:15:27 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 10:15:28 test_4app_zfj_clz.py[line:70] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 10:15:28 test_4app_zfj_clz.py[line:104] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-07 10:15:28 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-07 10:15:29 test_5app_gl_cl.py[line:79] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-07 10:15:29 test_6app_aiji_get.py[line:32] INFO 爱吉林城市动态获取失败{"message":"服务器内部错误","result":null,"status":"2"}
+2018-06-07 10:15:31 runtest.py[line:35] INFO 测试结束
+2018-06-07 10:35:23 test_1app_jcjs_cl.py[line:38] INFO 执法局下派成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 10:35:25 test_1app_jcjs_cl.py[line:72] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-07 10:35:25 test_2app_zfj_cl.py[line:39] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 10:35:25 test_2app_zfj_cl.py[line:75] INFO 执法局处理成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 10:35:25 test_3app_ajl_sbcl.py[line:39] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 10:35:26 test_3app_ajl_sbcl.py[line:71] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 10:35:27 test_3app_ajl_sbcl.py[line:106] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-07 10:35:27 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 10:35:28 test_4app_zfj_clz.py[line:70] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 10:35:28 test_4app_zfj_clz.py[line:104] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-07 10:35:28 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-07 10:35:29 test_5app_gl_cl.py[line:79] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-07 10:35:29 test_6app_aiji_get.py[line:32] INFO 爱吉林城市动态获取失败{"message":"服务器内部错误","result":null,"status":"2"}
+2018-06-07 10:35:32 runtest.py[line:35] INFO 测试结束
+2018-06-07 10:55:23 test_1app_jcjs_cl.py[line:38] INFO 执法局下派成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 10:55:24 test_1app_jcjs_cl.py[line:72] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-07 10:55:24 test_2app_zfj_cl.py[line:39] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 10:55:24 test_2app_zfj_cl.py[line:75] INFO 执法局处理成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 10:55:25 test_3app_ajl_sbcl.py[line:39] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 10:55:26 test_3app_ajl_sbcl.py[line:71] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 10:55:27 test_3app_ajl_sbcl.py[line:106] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-07 10:55:27 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 10:55:28 test_4app_zfj_clz.py[line:70] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 10:55:29 test_4app_zfj_clz.py[line:104] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-07 10:55:30 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-07 10:55:30 test_6app_aiji_get.py[line:32] INFO 爱吉林城市动态获取失败{"message":"服务器内部错误","result":null,"status":"2"}
+2018-06-07 10:55:34 runtest.py[line:35] INFO 测试结束
+2018-06-07 11:15:23 test_1app_jcjs_cl.py[line:38] INFO 执法局下派成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 11:15:24 test_1app_jcjs_cl.py[line:72] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-07 11:15:24 test_2app_zfj_cl.py[line:39] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 11:15:24 test_2app_zfj_cl.py[line:75] INFO 执法局处理成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 11:15:25 test_3app_ajl_sbcl.py[line:39] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 11:15:25 test_3app_ajl_sbcl.py[line:71] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 11:15:26 test_3app_ajl_sbcl.py[line:106] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-07 11:15:26 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 11:15:27 test_4app_zfj_clz.py[line:70] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 11:15:27 test_4app_zfj_clz.py[line:104] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-07 11:15:27 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-07 11:15:27 test_5app_gl_cl.py[line:79] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-07 11:15:28 test_6app_aiji_get.py[line:32] INFO 爱吉林城市动态获取失败{"message":"服务器内部错误","result":null,"status":"2"}
+2018-06-07 11:15:29 runtest.py[line:35] INFO 测试结束
+2018-06-07 11:35:23 test_1app_jcjs_cl.py[line:38] INFO 执法局下派成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 11:35:24 test_1app_jcjs_cl.py[line:72] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-07 11:35:25 test_2app_zfj_cl.py[line:39] INFO 江城集市上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 11:35:27 test_2app_zfj_cl.py[line:75] INFO 执法局处理成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 11:35:27 test_3app_ajl_sbcl.py[line:39] INFO 爱吉林上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 11:36:33 test_4app_zfj_clz.py[line:38] INFO 非市场办执法局上报成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 11:36:34 test_4app_zfj_clz.py[line:70] INFO 执法局派发成功{"message":"保存成功","result":{},"status":"1"}
+2018-06-07 11:36:36 test_4app_zfj_clz.py[line:104] INFO 江城集市处理成功{"message":"修改成功","result":{},"status":"1"}
+2018-06-07 11:36:36 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-07 11:36:38 test_5app_gl_cl.py[line:79] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-06-07 11:36:39 test_6app_aiji_get.py[line:32] INFO 爱吉林城市动态获取失败{"message":"服务器内部错误","result":null,"status":"2"}
+2018-06-07 11:36:46 runtest.py[line:35] INFO 测试结束

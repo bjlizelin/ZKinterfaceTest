@@ -332,3 +332,35 @@
 2018-05-28 18:13:41 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
 2018-05-28 18:13:41 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /roadproject/roadsevent/update HTTP/1.1" 200 None
 2018-05-28 18:13:41 test_5app_gl_cl.py[line:78] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 14:39:18 runtest.py[line:30] INFO 测试结束
+2018-05-31 14:43:20 runtest.py[line:30] INFO 测试结束
+2018-05-31 14:51:20 runtest.py[line:30] INFO 测试结束
+2018-05-31 14:57:20 runtest.py[line:30] INFO 测试结束
+2018-05-31 15:18:34 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 15:18:35 test_5app_gl_cl.py[line:78] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 15:18:36 runtest.py[line:30] INFO 测试结束
+2018-05-31 15:19:40 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 15:19:41 test_5app_gl_cl.py[line:78] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 15:19:42 runtest.py[line:30] INFO 测试结束
+2018-05-31 15:22:46 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 15:22:47 test_5app_gl_cl.py[line:78] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 15:22:48 runtest.py[line:30] INFO 测试结束
+2018-05-31 15:23:05 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-31 15:23:05 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /jcjs/cp_io/saveorupdate.action HTTP/1.1" 404 1046
+2018-05-31 15:23:56 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-31 15:23:57 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /jcjs/cp_io/saveorupdate.action HTTP/1.1" 404 1046
+2018-05-31 15:24:15 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-31 15:24:16 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /jcjs/cp_io/saveorupdate.action HTTP/1.1" 404 1046
+2018-05-31 15:24:29 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-31 15:24:29 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /jcjs/cp_io/saveorupdate.action HTTP/1.1" 404 1046
+2018-05-31 15:28:51 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-31 15:28:51 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /jcjs/cp_io/saveorupdate.action HTTP/1.1" 404 1046
+2018-05-31 15:29:08 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-31 15:29:09 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /jcjs/cp_io/saveorupdate.action HTTP/1.1" 404 1046
+2018-05-31 15:30:25 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-31 15:30:25 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /jcjs/cp_io/saveorupdate.action HTTP/1.1" 404 1046
+2018-05-31 15:33:22 connectionpool.py[line:208] DEBUG Starting new HTTP connection (1): 219.149.226.180
+2018-05-31 15:33:24 connectionpool.py[line:396] DEBUG http://219.149.226.180:7880 "POST /jcjs/cp_io/saveorupdate.action HTTP/1.1" 404 1046
+2018-05-31 15:51:42 test_5app_gl_cl.py[line:43] INFO web录入案卷成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 15:51:44 test_5app_gl_cl.py[line:78] INFO app复核成功{"msg":"保存成功","result":null,"code":"1"}
+2018-05-31 15:51:46 runtest.py[line:30] INFO 测试结束

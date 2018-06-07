@@ -1,4 +1,4 @@
-#encoding=utf-8
+# -*- coding: utf-8 -*-#encoding=utf-8
 from config.Log import *
 import requests
 import json  
@@ -15,7 +15,7 @@ class MyTest(unittest.TestCase):     #封装测试环境的初始化和还原的
 class test_zfj_post(MyTest):         #把这个接口封装一个类，下面的方法是具体的测试用例  
     '''''接口名称：app_执法局_江城集市'''    #这个描述接口名称  
     def test_jcjs_down(self): 
-            '''''测试用例1：江城集市处上报_执法局处理'''   #这个描述接口用例名称   
+            '''''测试用例2：江城集市处上报_执法局处理'''   #这个描述接口用例名称   
             self.url = 'http://219.149.226.180:7880/jcjs/cp_io/saveorupdate.action'  #请求url  
             self.headers = {"Content-Type":"application/x-www-form-urlencoded "}  
             self.data = {                                   #请求参数  
@@ -41,7 +41,7 @@ class test_zfj_post(MyTest):         #把这个接口封装一个类，下面的
                 logging.info("江城集市上报失败"+self2.text)
                 print("江城集市上报失败"+self2.text)
                 print(self2.status_code)
-                False      
+                raise       
               #获取执法局江城集市所有未处理数据
             url = "http://219.149.226.180:7880/jcjs/cp_io/getscbrycpiolist.action?rwssjssj=&curPage=1&scbryid=4028838462ae48f70162b28604ee014a&zxzts=2&rwsskssj=&pageSize=15"
             self_data = urllib2.urlopen(url)
@@ -71,12 +71,11 @@ class test_zfj_post(MyTest):         #把这个接口封装一个类，下面的
             b2 =json.loads(a)
             c2=str(b2['status'])
             if c2=="1":
-                print("执法局处理成功"+self.r.text)
-                logging.info("执法局处理成功"+self.r.text)
-                return True
+                print("执法局处理成功"+r1.text)
+                logging.info("执法局处理成功"+r1.text)
             else: 
-                logging.info("执法局处理失败"+self.r.text)
-                print("执法局处理失败"+self.r.text) 
-                return False                
+                logging.info("执法局处理失败"+r1.text)
+                print("执法局处理失败"+r1.text) 
+                raise              
 if __name__=="__main__":  
         unittest.main()

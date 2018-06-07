@@ -1,4 +1,4 @@
-#encoding=utf-8
+# -*- coding: utf-8 -*-
 from config.Log import *
 import requests
 import json  
@@ -15,7 +15,7 @@ class MyTest(unittest.TestCase):     #封装测试环境的初始化和还原的
 class test_zfj_post(MyTest):         #把这个接口封装一个类，下面的方法是具体的测试用例  
     '''''接口名称：app_爱吉林_江城集市'''    #这个描述接口名称  
     def test_jcjs_down(self):  
-        '''''测试用例1：市场投诉_执法派发_江城集市处理'''   #这个描述接口用例名称 
+        '''''测试用例3：市场投诉_执法派发_江城集市处理'''   #这个描述接口用例名称 
         self.url = 'http://219.149.226.180:7880/publicworkstation/mktcp_io/saveComplaint.action'  #请求url  
         self.headers = {"Content-Type":"application/x-www-form-urlencoded "}  
         self.data = {                                   #请求参数  
@@ -35,13 +35,12 @@ class test_zfj_post(MyTest):         #把这个接口封装一个类，下面的
         b =json.loads(a)
         c=str(b['status'])
         if c=="1":
-            print("爱吉林上报成功"+self.r.text)
-            logging.info("爱吉林上报成功"+self.r.text)
-            return True
+            print("爱吉林上报成功"+self2.text)
+            logging.info("爱吉林上报成功"+self2.text)
         else: 
-            logging.info("爱吉林上报失败"+self.r.text)
-            print("爱吉林上报失败"+self.r.text) 
-            return False       
+            logging.info("爱吉林上报失败"+self2.text)
+            print("爱吉林上报失败"+self2.text)
+            raise        
         url="http://219.149.226.180:7880/jcjs/cp_io/getscbrycpiolist.action?rwssjssj=&curPage=1&scbryid=4028838462ae48f70162b28604ee014a&zxzts=1&rwsskssj=&pageSize=15"
         self_data = urllib2.urlopen(url)
         self3 = self_data.read()
@@ -68,13 +67,12 @@ class test_zfj_post(MyTest):         #把这个接口封装一个类，下面的
         b1 =json.loads(a1)
         c1=str(b1['status'])
         if c1=="1":
-            print("执法局派发成功"+self.r.text)
-            logging.info("执法局派发成功"+self.r.text)
-            return True
+            print("执法局派发成功"+r1.text)
+            logging.info("执法局派发成功"+r1.text)
         else: 
-            logging.info("执法局派发失败"+self.r.text)
-            print("执法局派发失败"+self.r.text) 
-            return False      
+            logging.info("执法局派发失败"+r1.text)
+            print("执法局派发失败"+r1.text) 
+            raise       
         #获取列表id
         #获取江城集市所有未处理数据
         url = "http://219.149.226.180:7880/jcjs/elpy_tk/getlistbypage.action?rwssjssj=&curPage=1&zxzt=1&rwsskssj=&ygid=29&pageSize=15"
@@ -104,13 +102,11 @@ class test_zfj_post(MyTest):         #把这个接口封装一个类，下面的
         b2 =json.loads(a1)
         c2=str(b2['status'])
         if c2=="1":
-            print("江城集市处理成功"+self.r.text)
-            logging.info("江城集市处理成功"+self.r.text)
-            return True
+            print("江城集市处理成功"+r2.text)
+            logging.info("江城集市处理成功"+r2.text)
         else: 
-            logging.info("江城集市处理失败"+self.r.text)
-            print("江城集市处理失败"+self.r.text) 
-            return False       
-       
+            logging.info("江城集市处理失败"+r2.text)
+            print("江城集市处理失败"+r2.text)      
+            raise  
 if __name__=="__main__":  
         unittest.main()
